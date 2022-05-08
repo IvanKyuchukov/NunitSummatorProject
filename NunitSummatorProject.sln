@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32413.511
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Summator", "Summator\Summator.csproj", "{E1CD59DA-7C71-49A7-BB16-31B38D4B36BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Summator.Tests", "Summator.Tests\Summator.Tests.csproj", "{6FEEBFFA-B744-454B-AF52-37021B798456}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E1CD59DA-7C71-49A7-BB16-31B38D4B36BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1CD59DA-7C71-49A7-BB16-31B38D4B36BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1CD59DA-7C71-49A7-BB16-31B38D4B36BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1CD59DA-7C71-49A7-BB16-31B38D4B36BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FEEBFFA-B744-454B-AF52-37021B798456}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FEEBFFA-B744-454B-AF52-37021B798456}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FEEBFFA-B744-454B-AF52-37021B798456}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FEEBFFA-B744-454B-AF52-37021B798456}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61BB2386-007F-4F51-9355-5F889723A050}
+	EndGlobalSection
+EndGlobal
